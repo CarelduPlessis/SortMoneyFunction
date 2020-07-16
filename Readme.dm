@@ -16,6 +16,8 @@
 * Learn how use functions.
 
 * Learn about the "out" key word and how to use it in a function to return two values
+
+* Trying out new thing on the "out" key word
   
 
 
